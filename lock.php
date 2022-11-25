@@ -55,7 +55,7 @@
 			</div>
 			<div class="grid">
 				<p><img src="assets/coming/images/coming.png" title=""></p>
-				<h3>We are Still Working on it.</h3>
+				<h3>We are Still Working on it test.</h3>
 				<div class="clock">
 					<ul>
 						<li id="hours"></li>
