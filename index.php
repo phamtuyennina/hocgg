@@ -30,4 +30,7 @@
 
     /* Template */
     include TEMPLATE."index.php";
+
+
+    
 ?>
